@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkannur</h1>
-<h3 align="center">A person who is always eager to learn and grow, driven by a deep curiosity. Even when I'm tired, I prioritize self-improvement.</h3>
+<h3 align="center">A perpetual learner driven by an insatiable curiosity, I view challenges as opportunities for personal growth. My commitment to self-improvement runs so deep that even when exhaustion sets in, I find the motivation to continue learning and developing my skills</h3>
 
 - 📝 I regularly write articles on medium [https://medium.com/@darkannur](https://medium.com/@darkannur)
 
