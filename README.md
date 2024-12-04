@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arkannur</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arkannur)](https://git.io/typing-svg)</h1>
 <h3 align="center">A perpetual learner driven by an insatiable curiosity, I view challenges as opportunities for personal growth. My commitment to self-improvement runs so deep that even when exhaustion sets in, I find the motivation to continue learning and developing my skills</h3>
 
 - 📝 I regularly write articles on medium [https://medium.com/@darkannur](https://medium.com/@darkannur)
