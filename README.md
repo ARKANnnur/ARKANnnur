@@ -9,7 +9,7 @@
 <a href="https://instagram.com/arkannur_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkannur_l" height="30" width="40" /></a>
 <a href="https://medium.com/@darkannur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@darkannur" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dzikri-arkannur-836bbb244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@darkannur" height="30" width="40" /></a>
-<a href="https://www.behance.net/dzikri-arkannur" target="blank"><img align="bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" width="40" alt="behance logo"  /></a>
+<a href="https://www.behance.net/dzikri-arkannur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" width="40" alt="behance logo"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
