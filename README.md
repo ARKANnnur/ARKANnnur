@@ -2,6 +2,7 @@
 <h3 align="center">A perpetual learner driven by an insatiable curiosity, I view challenges as opportunities for personal growth. My commitment to self-improvement runs so deep that even when exhaustion sets in, I find the motivation to continue learning and developing my skills</h3>
 
 - 📝 I regularly write articles on medium [https://medium.com/@darkannur](https://medium.com/@darkannur)
+- visit my portofolio [https://dzikri-arkannur.vercel.app/](https://dzikri-arkannur.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
