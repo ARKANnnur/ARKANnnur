@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arkannur" alt="Typing SVG" /></a></h1>
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="6259967886232728027" data-share-method="host" data-aspect-ratio="0.745763" data-width="100%"><a href="https://tenor.com/view/periwinkle-tinkerbell-disney-fairies-gif-6259967886232728027">Periwinkle Tinkerbell GIF</a>from <a href="https://tenor.com/search/periwinkle-gifs">Periwinkle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed" data-postid="6259967886232728027" data-share-method="host" data-aspect-ratio="0.745763" data-width="100%"></div>
 </div>
 
 - 📝 I regularly write articles on medium [https://medium.com/@darkannur](https://medium.com/@darkannur)
