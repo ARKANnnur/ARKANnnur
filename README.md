@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arkannur" alt="Typing SVG" /></a></h1>
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="6259967886232728027" data-share-method="host" data-aspect-ratio="0.745763" data-width="100%"></div>
+  <img src="[https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif](https://github.com/ARKANnnur/images/blob/main/periwinkle-tinkerbell.gif)" width="200" />
 </div>
 
 - 📝 I regularly write articles on medium [https://medium.com/@darkannur](https://medium.com/@darkannur)
