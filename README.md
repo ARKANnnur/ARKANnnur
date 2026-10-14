@@ -7,6 +7,7 @@
 
 - 📝 I regularly write articles on medium [https://medium.com/@darkannur](https://medium.com/@darkannur)
 - visit my portfolio [https://dzikri-arkannur.vercel.app/](https://dzikri-arkannur.vercel.app/)
+- i just want to create game - no more coding for web etc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
